@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HatimZ
-- 👀 I’m interested in Python, NodeJS ,Web Development and Software Development
+- 👀 I’m interested in Python, React ,Web Development and Software Development
 - 🌱 I’m currently learning Backend Server Development and has choosen Python for it.
 - 💞️ I’m looking to collaborate on Open Source Projects so that I can learn and get experience
 
@@ -9,7 +9,7 @@
 [![medium](https://img.shields.io/badge/medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hatim.zahid)
 
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/HatimZ/count.svg)
 
 
 <!---
