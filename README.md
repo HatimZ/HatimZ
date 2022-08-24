@@ -9,8 +9,6 @@
 [![medium](https://img.shields.io/badge/medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hatim.zahid)
 
 
-Visitor Count
- ![Visitor Count](https://profile-counter.glitch.me/HatimZ/count.svg)
 
 
 <!---
