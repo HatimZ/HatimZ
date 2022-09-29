@@ -3,10 +3,8 @@
 - 🌱 I’m currently learning Backend Server Development and has choosen Python for it.
 - 💞️ I’m looking to collaborate on Open Source Projects so that I can learn and get experience
 
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hatimz.github.io/portfolio-website/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-zahid/)
-[![medium](https://img.shields.io/badge/medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hatim.zahid)
+
 
 
 
