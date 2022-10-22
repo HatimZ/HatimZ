@@ -5,7 +5,9 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-zahid/)
 
+BADGES 
 
+[![@hatimz's Holopin board](https://holopin.me/hatimz)](https://holopin.io/@hatimz)
 
 
 
