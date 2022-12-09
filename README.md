@@ -2,8 +2,9 @@
 ## Hello Everyone!
 
 - 👋 Hi, I’m @HatimZ
-- 👀 I’m interested in Python, React ,Web Development and Software Development
-- 🌱 I’m currently learning Backend Server Development and has choosen Python for it.
+- 👨‍⚖️ Working as Software Engineer at QuickStart Inc. Developing projects with Python/Django/Flask and UI/UX Web Apps with Flutter/Dart.
+- 👀 I’m interested in Server Side Development with Python,front-end with React and Flutter and overall Web development
+- 🌱 I’m currently learning Backend Server Development and has choosen Python for it. I am also learning Flutter and Dart while creating awesome projects.
 - 💞️ I’m looking to collaborate on Open Source Projects so that I can learn and get experience
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-zahid/)
