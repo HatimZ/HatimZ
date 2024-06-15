@@ -7,7 +7,7 @@
 - 🌱 I’m am an experienced Backend Developer and Curently indulging myself in the Vue.js framework. 
 - 💞️ I’m looking to collaborate on Open Source Projects so that I can learn and get experience
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-zahid/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-zahid-software-engineer/)
 
 ## BADGES - Holopin
 
