@@ -1,10 +1,10 @@
 
 ## Hello Everyone!
 
-- 👋 Hi, I’m @HatimZ , A Software Engineer with a Business Acumen.
-- 👨‍⚖️ Working as Full Stack Software Engineer at VST Inc. Developing fullstack applications with Django, Vue.js. HTML, CSS and BootStrap.
-- 👀 I’m interested in Backned Development and Infrastructure of the Wb Applications. I love to read and implement scalable solutions and system design best practices.
-- 🌱 I’m am an experienced Backend Developer and Curently indulging myself in the Vue.js framework. 
+- 👋 Hi, I’m @HatimZ , A Software Engineer with 3+ year experience building production grade applications with cutting edge tech stacks.
+- 👨‍⚖️ Working as Full Stack Software Engineer at VST Inc. Developing fullstack applications with Django,MongoDB, Vue.js. HTML, CSS and BootStrap.
+- 👀 I’m interested in the backend and infrastructure of the web applications i build. I love to read and implement scalable solutions and system design best practices.
+- 🌱 I am working with multiple clients on Upwork, building web applications that solve real world solution. 
 - 💞️ I’m looking to collaborate on Open Source Projects so that I can learn and get experience
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-zahid-software-engineer/)
