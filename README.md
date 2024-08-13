@@ -8,6 +8,8 @@
 - 💞️ I’m looking to collaborate on Open Source Projects so that I can learn and get experience
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-zahid-software-engineer/)
+[![medium](https://img.shields.io/badge/medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@hatim.zahid)
+[![upwork](https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015dba6905ee11ad1a)
 
 
 ## BADGES - Holopin
