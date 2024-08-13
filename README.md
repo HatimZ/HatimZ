@@ -9,9 +9,6 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-zahid-software-engineer/)
 
-[![Hatim's GitHub stats](https://github-readme-stats.vercel.app/api?username=HatimZ)](https://github.com/HatimZ/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HatimZ)](https://github.com/HatimZ/github-readme-stats)
 
 ## BADGES - Holopin
 
