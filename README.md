@@ -11,6 +11,8 @@
 
 [![Hatim's GitHub stats](https://github-readme-stats.vercel.app/api?username=HatimZ)](https://github.com/HatimZ/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HatimZ)](https://github.com/HatimZ/github-readme-stats)
+
 ## BADGES - Holopin
 
 [![@hatimz's Holopin board](https://holopin.me/hatimz)](https://holopin.io/@hatimz)
