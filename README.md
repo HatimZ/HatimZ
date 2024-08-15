@@ -12,7 +12,7 @@
 [![upwork](https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015dba6905ee11ad1a)
 
 
-## BADGES - Holopin
+## BADGES - Open Source Contribution Achievements in Hacktober Fest
 
 [![@hatimz's Holopin board](https://holopin.me/hatimz)](https://holopin.io/@hatimz)
 
