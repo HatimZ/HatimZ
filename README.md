@@ -1,7 +1,7 @@
 
 ## Hello Everyone!
 
-- 👋 Hi, I’m Hatim Zahid , A Software Engineer with 3+ year experience building production grade applications with cutting edge tech stacks.
+- 👋 Hi, I’m Hatim Zahid , A Software Engineer with extensive experience building production grade applications with cutting edge tech stacks.
 - 👨‍⚖️ Working as Full Stack Software Engineer at VST Inc. Developing fullstack applications with Django,MongoDB, Vue.js. HTML, CSS and BootStrap.
 - 👀 I’m interested in the backend and infrastructure of the web applications i build. I love to read and implement scalable solutions and system design best practices.
 - 🌱 I am working with multiple clients on Upwork, building web applications that solve real world problems. 
