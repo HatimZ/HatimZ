@@ -15,8 +15,8 @@
 ## BADGES - Open Source Contribution Achievements in Hacktober Fest
 
 [![@hatimz's Holopin board](https://holopin.me/hatimz)](https://holopin.io/@hatimz)
+[![@hatimz's Credly board](https://www.credly.com/badges/feb734e0-510c-4902-b19a-fdc6809b5579/public_url)](https://www.credly.com/badges/feb734e0-510c-4902-b19a-fdc6809b5579/public_url)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="feb734e0-510c-4902-b19a-fdc6809b5579" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <!---
 HatimZ/HatimZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
