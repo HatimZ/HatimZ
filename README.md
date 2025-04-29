@@ -16,7 +16,7 @@
 
 [![@hatimz's Holopin board](https://holopin.me/hatimz)](https://holopin.io/@hatimz)
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="feb734e0-510c-4902-b19a-fdc6809b5579" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <!---
 HatimZ/HatimZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
