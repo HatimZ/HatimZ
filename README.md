@@ -10,6 +10,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-zahid-software-engineer/)
 [![medium](https://img.shields.io/badge/medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@hatim.zahid)
 [![upwork](https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015dba6905ee11ad1a)
+[![credly](https://img.shields.io/badge/credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/feb734e0-510c-4902-b19a-fdc6809b5579/public_url)
 
 
 ## BADGES - Open Source Contribution Achievements in Hacktober Fest
